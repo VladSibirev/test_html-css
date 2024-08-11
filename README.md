@@ -1,2 +1,2 @@
 HTML+CSS
-Автор: Vlad Sibirev
+Автор: Vlad_Sibirev
